@@ -1,6 +1,4 @@
 TFLogViewer
 ===========
 
-Log viewer for use with the official Total Freedom server.
-
-...your mileage may vary
+A web-based log parser/viewer for use with Minecraft servers running TotalFreedomMod.
